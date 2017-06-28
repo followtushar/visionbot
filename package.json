@@ -1,0 +1,23 @@
+{
+  "name": "visionbot",
+  "version": "1.0.0",
+  "description": "simple bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/followtushar/visionbot.git"
+  },
+  "author": "tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/followtushar/visionbot/issues"
+  },
+  "homepage": "https://github.com/followtushar/visionbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
