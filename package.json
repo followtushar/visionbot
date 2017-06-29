@@ -2,7 +2,7 @@
   "name": "visionbot",
   "version": "1.0.0",
   "description": "simple bot",
-  "main": "app.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
